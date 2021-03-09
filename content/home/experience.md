@@ -22,7 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: Research Assistant
+  - title: University Assistant
+    company: TU Wien
+    company_url: ''
+    location: Vienna, Austria
+    date_start: '2020-05-15'
+    description: Credit card fraud detection with subgroup discovery.
+   
+
+  - title: Research Assistant
     company: Fraunhofer IAIS
     company_url: ''
     location: Sankt Augustin, Germany
@@ -30,7 +38,7 @@ experience:
     date_end: '2020-04-30'
     description: Credit card fraud detection with subgroup discovery.
     
-    - title: Tutor
+  - title: Tutor
     company: University of Bonn
     company_url: ''
     location: Bonn, Germany
@@ -38,7 +46,7 @@ experience:
     date_end: '2020-03-31'
     description: Tutor for masters' machine learning lectures.
     
-    - title: Visiting Research Student
+  - title: Visiting Research Student
     company: University College Cork
     company_url: ''
     location: Cork, Irelland
@@ -46,7 +54,7 @@ experience:
     date_end: '2019-08-30'
     description: Research on local search and constraint programming.
     
-    - title: Visiting Research Student
+  - title: Visiting Research Student
     company: University of Nottingham
     company_url: ''
     location: Nottingham, England
