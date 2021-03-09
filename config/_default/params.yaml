@@ -23,11 +23,11 @@ twitter: ''
 email: maximilian.thiessen@tuwien.ac.at
 phone: #888 888 88 88
 address:
-  street: #Gußhausstr. 27
+  street: Gußhausstr. 27
   city: Vienna, Austria
-  region: #Vienna
-  postcode: #'1040'
-  country: Austria
+  #region: Austria
+  #postcode: '1040'
+  #country: Austria
   country_code: #AU
 coordinates:
   latitude: #'37.4275'
@@ -46,14 +46,14 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+time_format: '15:04'
+address_format: #de
 
 # Site features
 

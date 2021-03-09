@@ -11,13 +11,13 @@ role: PhD student in machine learning
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: TU Wien
-  url: tuwien.ac.at
+  url: https://tuwien.ac.at
 
 # Interests to show in About widget
 interests:
 - Machine Learning 
 - Active Learning
-- Graph Theory
+- (Metric) Graph Theory
 
 # Education to show in About widget
 education:
@@ -63,7 +63,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Hey, my name is Maximilian Thiessen and I am PhD student in machine learning at TU Wien, Austria. I am interested in active and semi-supervised learning. In particular, I want to use convexity theory to achieve novel sample and query complexity bounds for learning tasks on graphs. Additionally, I am working on new efficient graph kernels.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hey, my name is Max. I am a PhD student in machine learning supervised by [Prof. Thomas Gärtner](https://thomasgaertner.org/) in the [machine learning research unit](https://ml-tuw.github.io/) at TU Wien, Austria. Before that, I studied computer science at the [University of Bonn](https://mlai.cs.uni-bonn.de/) under the supervision of [Dr. Tamás Horváth ](https://mlai.cs.uni-bonn.de/people/tamas-horvath). My main interest is active and semi-supervised learning. The goal is to achieve novel sample and query complexity bounds for learning tasks on graphs using convexity theory. Additionally, I am working on efficient graph kernels.

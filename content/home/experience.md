@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Vienna, Austria
     date_start: '2020-05-15'
-    description: TA for various machine learning courses.
+    description: Teaching assistant for various machine learning courses.
 
   - title: Research Assistant
     company: Fraunhofer IAIS
@@ -43,7 +43,7 @@ experience:
     location: Bonn, Germany
     date_start: '2018-10-01'
     date_end: '2020-03-31'
-    description: Tutor for masters' machine learning lectures.
+    description: Tutor for graduate machine learning lectures.
     
   - title: Visiting Research Student
     company: University College Cork
