@@ -27,8 +27,7 @@ experience:
     company_url: ''
     location: Vienna, Austria
     date_start: '2020-05-15'
-    description: Credit card fraud detection with subgroup discovery.
-   
+    description: TA in various machine learning courses.
 
   - title: Research Assistant
     company: Fraunhofer IAIS
