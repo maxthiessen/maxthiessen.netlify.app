@@ -24,7 +24,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: TU Wien, Austria
-    year: 2020 - today
+    year: 2020 — Present
   - course: MSc in Computer Science
     institution: University of Bonn, Germany
     year: 2020
