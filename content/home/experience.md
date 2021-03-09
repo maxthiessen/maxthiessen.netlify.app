@@ -22,24 +22,43 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+    - title: Research Assistant
+    company: Fraunhofer IAIS
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    location: Sankt Augustin, Germany
+    date_start: '2016-10-01'
+    date_end: '2020-04-30'
+    description: Credit card fraud detection with subgroup discovery.
+    
+    - title: Tutor
+    company: University of Bonn
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bonn, Germany
+    date_start: '2018-10-01'
+    date_end: '2020-03-31'
+    description: Tutor for masters' machine learning lectures.
+    
+    - title: Visiting Research Student
+    company: University College Cork
+    company_url: ''
+    location: Cork, Irelland
+    date_start: '2019-08-01'
+    date_end: '2019-08-30'
+    description: Research on local search and constraint programming.
+    
+    - title: Visiting Research Student
+    company: University of Nottingham
+    company_url: ''
+    location: Nottingham, England
+    date_start: '2018-08-01'
+    date_end: '2018-09-30'
+    description: Research on graph-based active learning and multiple systems estimation.
+        
+  - title: Software Developer Intern
+    company: T-Systems
+    company_url: ''
+    location: Bonn, Germany
+    date_start: '2015-08-01'
+    date_end: '2016-09-30'
+    description: Java development for customer relationship management software.
 ---
