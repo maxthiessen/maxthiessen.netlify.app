@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Efficient Reinforcement Learning via Self-supervised learning and Model-based methods"
-authors: ["Thomas Schmied", admin]
-date: 2020-12-09
+title: "Active Learning of Convex Halfspaces on Graphs"
+authors: [admin, "Thomas Gärtner"]
+date: ""# 2021-10-28T18:08:07+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: 2021-03-09T10:01:31+01:00
+publishDate: 2021-10-28T18:08:07+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Challenges of Real-World RL Workshop at NeurIPS 2020"
-publication_short: "RWRL workshop at NeurIPS"
+publication: "NeurIPS"
+publication_short: ""
 
 abstract: ""
 
@@ -30,9 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
- - name: Thomas Schmied
-   url: https://www.linkedin.com/in/thomas-schmied/
+# links:
+# - name: Follow
+#   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
@@ -43,7 +43,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: https://www.google.com/url?q=https://slideslive.com/38943125&sa=D&source=editors&ust=1615284344466000&usg=AFQjCNF51Qi7y6dg3QoezthZhIgBVzh_Qg
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

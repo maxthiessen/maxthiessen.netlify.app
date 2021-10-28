@@ -17,7 +17,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Subset Selection in Machine Learning"
-publication_short: "SubSetML at ICML"
+publication_short: "SubSetML workshop at ICML"
 
 abstract: ""
 
@@ -36,14 +36,14 @@ links:
    #icon_pack: fab
    #icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://drive.google.com/file/d/1HS76hrVa5_eKeiDoOJE2VE6SPm0L8-ze/view?usp=sharing
+url_code: https://github.com/maksim96/active_graph_halfspaces
 url_dataset:
 url_poster:
 url_project: 
 url_slides:
 url_source: 
-url_video:
+url_video: https://slideslive.com/38960119
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
