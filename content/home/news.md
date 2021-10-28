@@ -18,7 +18,7 @@ accepted to **NeurIPS 2021**!
 
 **[Aug 2021]** I attended Taipei's [MLSS 2021](https://ai.ntu.edu.tw/mlss2021/) and won a **best poster honorable mention**!
 
-**[Jul 2021]** In a team with [David Penz](https://at.linkedin.com/in/david-penz-5a3240132) and [Joe Redshaw](https://uk.linkedin.com/in/joe-redshaw-871916142), we won Siemens' [AI-Dependability](https://ecosystem.siemens.com/topic/detail/default/33/overview) challenge with the **best practical result**!
+**[Jul 2021]** In a team with [David Penz](https://at.linkedin.com/in/david-penz-5a3240132) and [Joe Redshaw](https://uk.linkedin.com/in/joe-redshaw-871916142), we won Siemens' [AI Dependability Assessment](https://ecosystem.siemens.com/topic/detail/default/33/overview) challenge with the **best practical result**!
 
 **[Jul 2021]** I attended London's [LogML 2021](logml.ai) summer school.
 
