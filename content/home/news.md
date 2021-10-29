@@ -14,7 +14,7 @@ design:
 **[Sep 2021]** Our paper *"Active Learning of Convex Halfspaces on Graphs"* got <br />
 accepted to **NeurIPS 2021**!
 
-**[Sep 2021]** I attended the [Ellis Doctoral Symposium EDS 2021](https://ellisds.eu/)
+**[Sep 2021]** I attended the [Ellis Doctoral Symposium EDS 2021](https://ellisds.eu/).
 
 **[Aug 2021]** I attended Taipei's [MLSS 2021](https://ai.ntu.edu.tw/mlss2021/) and won a **best poster honorable mention**!
 
