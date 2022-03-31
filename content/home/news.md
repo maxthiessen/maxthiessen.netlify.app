@@ -10,6 +10,9 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+**[Mar 2022]** Our master's student Fabian Jogl got his paper *"Reducing Learning on Cell Complexes to Graphs"* accepted to [GTRL@ICLR 2022](https://gt-rl.github.io)
+
+**[Mar 2022]** I got invited to serve as a reviewer for *ICML*, *NeurIPS*, and *ECMLPKDD*.
 
 **[Sep 2021]** Our paper *"Active Learning of Convex Halfspaces on Graphs"* got <br />
 accepted to **NeurIPS 2021**!
@@ -20,6 +23,6 @@ accepted to **NeurIPS 2021**!
 
 **[Jul 2021]** In a team with [David Penz](https://at.linkedin.com/in/david-penz-5a3240132) and [Joe Redshaw](https://uk.linkedin.com/in/joe-redshaw-871916142), we won Siemens' [AI Dependability Assessment](https://ecosystem.siemens.com/topic/detail/default/33/overview) challenge with the **best practical result**!
 
-**[Jul 2021]** I attended London's [LogML 2021](logml.ai) summer school.
+**[Jul 2021]** I attended the [LogML 2021](logml.ai) summer school.
 
 **[Jul 2021]** I attended the [EEML 2021](eeml.eu/) summer school.

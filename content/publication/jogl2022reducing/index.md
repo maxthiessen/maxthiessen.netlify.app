@@ -1,23 +1,23 @@
----
+  ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Active Learning of Convex Halfspaces on Graphs"
-authors: [admin, "Thomas Gärtner"]
-date: ""# 2021-10-28T18:08:07+02:00
+title: "Reducing Learning on Cell Complexes to Graphs"
+authors: ["Fabian Jogl", admin, "Thomas Gärtner"]
+date: 2022-04-29
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-28T18:08:07+02:00
+publishDate: 2022-03-31T07:59:47+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NeurIPS"
-publication_short: ""
+publication: "ICLR Workshop on Geometrical and Topological Representation Learning"
+publication_short: "GTRL workshop at ICML"
 
 abstract: ""
 
@@ -30,20 +30,22 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Workshop
+   url: https://gt-rl.github.io/
+   #icon_pack: fab
+   #icon: twitter
+ - name: Fabian Jogl
+   url: https://openreview.net/profile?id=~Fabian_Jogl1
 
-url_pdf: https://openreview.net/pdf?id=O-fOgeI_D-B
+url_pdf: https://openreview.net/pdf?id=HKUxAE-J6lq
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: https://slideslive.com/38968915
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
