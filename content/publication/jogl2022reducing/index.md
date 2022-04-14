@@ -17,7 +17,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ICLR Workshop on Geometrical and Topological Representation Learning"
-publication_short: "GTRL workshop at ICML"
+publication_short: "GTRL workshop at ICLR"
 
 abstract: ""
 
