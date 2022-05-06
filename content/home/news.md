@@ -10,6 +10,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+**[Mai 2022]** We are organising the *Mining and Learning with Graphs* workshop MLG at ECMLPKDD in Grenoble. [**Submit your work!**](https://www.mlgworkshop.ml)
+**[Apr 2022]** I got invited to and attended *G-Research's Spring Insights Week*
 **[Mar 2022]** Our master's student Fabian Jogl got his paper *"Reducing Learning on Cell Complexes to Graphs"* accepted to [GTRL@ICLR 2022](https://gt-rl.github.io)
 
 **[Mar 2022]** I got invited to serve as a reviewer for *ICML*, *NeurIPS*, and *ECMLPKDD*.
