@@ -14,7 +14,7 @@ design:
 
 **[Mai 2022]** I am attending the the [Hausdorff School on Algorithmic Data Analysis](https://www.hcm.uni-bonn.de/events/eventpages/hausdorff-school/hausdorff-schools-2022/algorithmicdata2022/) at University of Bonn.
 
-**[Apr 2022]** I got invited to and attended *G-Research's Spring Insights Week*
+**[Apr 2022]** I got invited to and attended *G-Research's Spring Insights Week*.
 
 **[Mar 2022]** Our master's student Fabian Jogl got his paper *"Reducing Learning on Cell Complexes to Graphs"* accepted to [GTRL@ICLR 2022](https://gt-rl.github.io)
 
