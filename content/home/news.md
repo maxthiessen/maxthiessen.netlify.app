@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-**[Jun 2022]** I am visiting [Marco Bressan](https://sites.google.com/view/marco-bressan/home) and [Nicoló Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) at the [University of Milan](https://www.ellismilan.eu/people/).
+**[Jun 2022]** I am visiting [Marco Bressan](https://sites.google.com/view/marco-bressan/home) and [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) at the [University of Milan](https://www.ellismilan.eu/people/).
 
 **[Mai 2022]** We are organising the [*Mining and Learning with Graphs workshop* (MLG)](https://www.mlgworkshop.ml)  at ECMLPKDD in Grenoble. [**Submit your work!**](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2022/Workshop/MLG)
 
