@@ -10,11 +10,13 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-**[Jun 2022]** I am visiting [Marco Bressan](https://sites.google.com/view/marco-bressan/home) and [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) at the [University of Milan](https://www.ellismilan.eu/people/).
+**[Jun 2022]** Our paper *"Online Learning of Convex Sets on Graphs*" got accepted to **ECMLPKDD 2022**!
+
+**[Jun 2022]** I visited [Marco Bressan](https://sites.google.com/view/marco-bressan/home) and [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) at the University of Milan.
 
 **[Mai 2022]** We are organising the [*Mining and Learning with Graphs workshop* (MLG)](https://www.mlgworkshop.ml)  at ECMLPKDD in Grenoble. [**Submit your work!**](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2022/Workshop/MLG)
 
-**[Mai 2022]** I am attending the the [Hausdorff School on Algorithmic Data Analysis](https://www.hcm.uni-bonn.de/events/eventpages/hausdorff-school/hausdorff-schools-2022/algorithmicdata2022/) at University of Bonn.
+**[Mai 2022]** I attended the the [Hausdorff School on Algorithmic Data Analysis](https://www.hcm.uni-bonn.de/events/eventpages/hausdorff-school/hausdorff-schools-2022/algorithmicdata2022/) at University of Bonn.
 
 **[Apr 2022]** I got invited to and attended *G-Research's Spring Insights Week*.
 
