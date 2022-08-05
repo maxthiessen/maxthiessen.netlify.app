@@ -10,17 +10,29 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+**[Jul 2022]** Honoured to be recognised as an **outstanding reviewer** (top 10%) of **ICML**!
+
+**[Jul 2022]** Our master's thesis student Fabian Jogl got his paper *"Weisfeiler and Leman Return with Graph Transformations"* accepted to [MLG@ECMLPKDD 2022](https://www.mlgworkshop.ml).
+
+**[Jul 2022]** Passed my *proficiency evaluation* (mid-evaluation for PhD studies).
+
+**[Jul 2022]** I attended the [LogML 2022](logml.ai) summer school.
+
+**[Jul 2022]** Together with a team lead by my colleague [Tamara Drucks](https://informatics.tuwien.ac.at/people/tamara-drucks), we organised *machine learning courses for children* at the [KinderUni Wien](https://www.kinderuni-anmeldung.at/index.php?field_id=&ts=&token=fce978a8f469217c8ea2e5c182f2cdfc&event_age_type_id=&event_type=&event_sub_type=38&keywords=&page=).
+
+**[Jul 2022]** I got invited to serve as a reviewer for the [*Machine Learning journal*](https://www.springer.com/journal/10994), the [LoG conference](https://logconference.org/), and [LWDA](https://lwda2022.de/)
+
 **[Jun 2022]** Our paper *"Online Learning of Convex Sets on Graphs*" got accepted to **ECMLPKDD 2022**!
 
 **[Jun 2022]** I visited [Marco Bressan](https://sites.google.com/view/marco-bressan/home) and [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) at the University of Milan.
 
 **[Mai 2022]** We are organising the [*Mining and Learning with Graphs workshop* (MLG)](https://www.mlgworkshop.ml)  at ECMLPKDD in Grenoble. [**Submit your work!**](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2022/Workshop/MLG)
 
-**[Mai 2022]** I attended the the [Hausdorff School on Algorithmic Data Analysis](https://www.hcm.uni-bonn.de/events/eventpages/hausdorff-school/hausdorff-schools-2022/algorithmicdata2022/) at University of Bonn.
+**[Mai 2022]** I attended the [Hausdorff School on Algorithmic Data Analysis](https://www.hcm.uni-bonn.de/events/eventpages/hausdorff-school/hausdorff-schools-2022/algorithmicdata2022/) at University of Bonn.
 
 **[Apr 2022]** I got invited to and attended *G-Research's Spring Insights Week*.
 
-**[Mar 2022]** Our master's student Fabian Jogl got his paper *"Reducing Learning on Cell Complexes to Graphs"* accepted to [GTRL@ICLR 2022](https://gt-rl.github.io).
+**[Mar 2022]** Our master's thesis student Fabian Jogl got his paper *"Reducing Learning on Cell Complexes to Graphs"* accepted to [GTRL@ICLR 2022](https://gt-rl.github.io).
 
 **[Mar 2022]** I got invited to serve as a reviewer for *ICML*, *NeurIPS*, and *ECMLPKDD*.
 
