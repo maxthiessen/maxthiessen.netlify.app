@@ -11,7 +11,12 @@ weight: 130
 title: Contact
 subtitle:
 
-  
+content:
+  email: maximilian.thiessen@tuwien.ac.at
+  address:
+    street: Gußhausstr. 27
+    city: Vienna, Austria
+
 design:
   columns: '2'
 ---
