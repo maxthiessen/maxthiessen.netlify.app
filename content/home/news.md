@@ -10,9 +10,12 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+**[Sep 2022]** Together with Marco Bressan, Andrea Paudice, Nicolò Cesa-Bianchi (University of Milan), and Silvio Lattanzi (Google) we got our paper *"Active Learning of Classifiers with Label and Seed Queries"*
+accepted to **NeurIPS 2022**!
+
 **[Jul 2022]** Honoured to be recognised as an **outstanding reviewer** (top 10%) of **ICML**!
 
-**[Jul 2022]** Our master's thesis student Fabian Jogl got his paper *"Weisfeiler and Leman Return with Graph Transformations"* accepted to [MLG@ECMLPKDD 2022](https://www.mlgworkshop.ml).
+**[Jul 2022]** My colleague Fabian Jogl got his paper *"Weisfeiler and Leman Return with Graph Transformations"* accepted to [MLG@ECMLPKDD 2022](https://www.mlgworkshop.ml) and won the *best poster award*.
 
 **[Jul 2022]** Passed my *proficiency evaluation* (mid-evaluation for PhD studies).
 
@@ -20,7 +23,7 @@ design:
 
 **[Jul 2022]** Together with a team lead by my colleague [Tamara Drucks](https://informatics.tuwien.ac.at/people/tamara-drucks), we organised *machine learning courses for children* at the [KinderUni Wien](https://www.kinderuni-anmeldung.at/index.php?field_id=&ts=&token=fce978a8f469217c8ea2e5c182f2cdfc&event_age_type_id=&event_type=&event_sub_type=38&keywords=&page=).
 
-**[Jul 2022]** I got invited to serve as a reviewer for the [*Machine Learning journal*](https://www.springer.com/journal/10994), the [LoG conference](https://logconference.org/), and [LWDA](https://lwda2022.de/)
+**[Jul 2022]** I got invited to serve as a reviewer for the [*Machine Learning journal*](https://www.springer.com/journal/10994), the [LoG conference](https://logconference.org/), and [LWDA](https://lwda2022.de/).
 
 **[Jun 2022]** Our paper *"Online Learning of Convex Sets on Graphs*" got accepted to **ECMLPKDD 2022**!
 
