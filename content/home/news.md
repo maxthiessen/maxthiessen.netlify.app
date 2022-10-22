@@ -10,12 +10,16 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+**[Oct 2022]** Happy to be recognised as a **top reviewer** (top 8%) of **NeurIPS**!
+
+**[Oct 2022]** Two workshop papers accepted at GLFrontiers@NeurIPS (with Pascal Welke and Thomas Gärtner) and NeurReps@NeurIPS (with Sohir Maskey, Ali Parviz, Hannes Stärk, Ylli Sadikaj, and Haggai Maron)!
+
 **[Sep 2022]** Together with Marco Bressan, Andrea Paudice, Nicolò Cesa-Bianchi (University of Milan), and Silvio Lattanzi (Google) we got our paper *"Active Learning of Classifiers with Label and Seed Queries"*
 accepted to **NeurIPS 2022**!
 
-**[Jul 2022]** Honoured to be recognised as an **outstanding reviewer** (top 10%) of **ICML**!
+**[Jul 2022]** Happy to be recognised as an **outstanding reviewer** (top 10%) of **ICML**!
 
-**[Jul 2022]** My colleague Fabian Jogl got his paper *"Weisfeiler and Leman Return with Graph Transformations"* accepted to [MLG@ECMLPKDD 2022](https://www.mlgworkshop.ml) and won the *best poster award*.
+**[Jul 2022]** My colleague Fabian Jogl got our paper *"Weisfeiler and Leman Return with Graph Transformations"* accepted to [MLG@ECMLPKDD 2022](https://www.mlgworkshop.ml) and won the (community-voted) *best poster award*.
 
 **[Jul 2022]** Passed my *proficiency evaluation* (mid-evaluation for PhD studies).
 
