@@ -12,7 +12,7 @@ design:
 ---
 **[Oct 2022]** Happy to be recognised as a **top reviewer** (top 8%) of **NeurIPS**!
 
-**[Oct 2022]** Two workshop papers accepted at GLFrontiers@NeurIPS (with Pascal Welke and Thomas Gärtner) and NeurReps@NeurIPS (with Sohir Maskey, Ali Parviz, Hannes Stärk, Ylli Sadikaj, and Haggai Maron)!
+**[Oct 2022]** Two workshop papers accepted at [GLFrontiers@NeurIPS](https://glfrontiers.github.io/) (with Pascal Welke and Thomas Gärtner) and [NeurReps@NeurIPS](https://neurreps.org) (with Sohir Maskey, Ali Parviz, Hannes Stärk, Ylli Sadikaj, and Haggai Maron)!
 
 **[Sep 2022]** Together with Marco Bressan, Andrea Paudice, Nicolò Cesa-Bianchi (University of Milan), and Silvio Lattanzi (Google) we got our paper *"Active Learning of Classifiers with Label and Seed Queries"*
 accepted to **NeurIPS 2022**!
