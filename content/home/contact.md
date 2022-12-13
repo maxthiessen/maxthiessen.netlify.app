@@ -14,7 +14,7 @@ subtitle:
 content:
   email: maximilian.thiessen@tuwien.ac.at
   address:
-    street: Gußhausstr. 27
+    street: Erzherzog-Johann-Platz 1 (FB02)
     city: Vienna, Austria
 
 design:
