@@ -3,7 +3,7 @@
 
 title: "Active Learning Convex Halfspaces on Graphs"
 authors: [admin, "Thomas Gärtner"]
-date: 2021-24-07
+date: 2021-07-24
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
