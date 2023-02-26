@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-
+**[Feb 2022]** We are organising the [1st community event for machine learning PhD students in Vienna (C'Est La Wien)](https://cestlawien.github.io/  )!
 
 **[Oct 2022]** Happy to be recognised as a **top reviewer** (top 8%) of **NeurIPS**!
 
