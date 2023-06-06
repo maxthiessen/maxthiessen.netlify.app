@@ -10,7 +10,12 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-**[Feb 2022]** We are organising the [1st community event for machine learning PhD students in Vienna (C'Est La Wien)](https://cestlawien.github.io/  )!
+**[Mai 2023]** We are again organising the [*Mining and Learning with Graphs workshop* (MLG)](https://mlg-europe.github.io/) at ECMLPKDD in Torino. [**Submit your work!**](https://mlg-europe.github.io/#cfp)
+
+**[Mai 2023]** Together with Pascal Welke, Fabian Jogl, and Thomas Gärtner we got our paper *"Expectation-Complete Graph Representations with Homomorphisms"*
+accepted to **ICML 2023**!
+
+**[Feb 2023]** We are organising the [1st community event for machine learning PhD students in Vienna (C'Est La Wien)](https://cestlawien.github.io/  )!
 
 **[Oct 2022]** Happy to be recognised as a **top reviewer** (top 8%) of **NeurIPS**!
 
@@ -22,7 +27,7 @@ accepted to **NeurIPS 2022**!
 **[Jul 2022]** Happy to be recognised as an **outstanding reviewer** (top 10%) of **ICML**!
 
 
-**[Jul 2022]** My colleague Fabian Jogl got our paper *"Weisfeiler and Leman Return with Graph Transformations"* accepted to [MLG@ECMLPKDD 2022](https://www.mlgworkshop.ml) and won the (community-voted) *best poster award*.
+**[Jul 2022]** My colleague Fabian Jogl got our paper *"Weisfeiler and Leman Return with Graph Transformations"* accepted to [MLG@ECMLPKDD 2022](https://mlg-europe.github.io/2022/) and won the (community-voted) *best poster award*.
 <!--
 **[Jul 2022]** Passed my *proficiency evaluation* (mid-evaluation for PhD studies).
 
@@ -40,7 +45,7 @@ accepted to **NeurIPS 2022**!
 
 **[Jun 2022]** I visited [Marco Bressan](https://sites.google.com/view/marco-bressan/home) and [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) at the University of Milan.
 
-**[Mai 2022]** We are organising the [*Mining and Learning with Graphs workshop* (MLG)](https://www.mlgworkshop.ml)  at ECMLPKDD in Grenoble. [**Submit your work!**](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2022/Workshop/MLG)
+**[Mai 2022]** We are organising the [*Mining and Learning with Graphs workshop* (MLG)](https://mlg-europe.github.io/2022/)  at ECMLPKDD in Grenoble. [**Submit your work!**](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2022/Workshop/MLG)
 
 <!--
 
