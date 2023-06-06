@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Expectation Complete Graph Representations using Graph Homomorphisms"
-authors: [Pascal Welke*, Maximilian Thiessen, Thomas Gärtner]
+authors: [Pascal Welke, admin, Thomas Gärtner]
 date: 2022-12-13T11:15:18+01:00
 doi: ""
 

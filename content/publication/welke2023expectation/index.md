@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Welke2023expectation"
-authors: [Pascal Welke, Maximilian Thiessen, Fabian Jogl, Thomas Gärtner]
+authors: [Pascal Welke, admin, Fabian Jogl, Thomas Gärtner]
 date: 2023-06-06T15:05:39+02:00
 doi: ""
 
