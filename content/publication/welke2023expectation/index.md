@@ -1,23 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Expectation Complete Graph Representations using Graph Homomorphisms"
-authors: [Pascal Welke*, Maximilian Thiessen, Thomas Gärtner]
-date: 2022-12-13T11:15:18+01:00
+title: "Welke2023expectation"
+authors: [Pascal Welke, Maximilian Thiessen, Fabian Jogl, Thomas Gärtner]
+date: 2023-06-06T15:05:39+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-12-13T11:15:18+01:00
+publishDate: 2023-06-06T15:05:39+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "GLF@NeurIPS and LoG"
+publication_short: "ICML"
 
 abstract: ""
 
